@@ -21,3 +21,8 @@ to work on developing solutions to problems in local communities.
   - [ ] https://docs.google.com/document/d/1wo_skwazuom_Zkp7AmCSjy5JD8Z5WYSbhr2IUmqWdQ0/edit
   - [ ] Data from local agencies
 - [ ] Add a code of conduct
+
+
+## Getting Involved
+
+If you are interested, please reach out. Reach out to Saul Shanabrook at s.shanabrook@gmail.com to maybe meet up in person or leave an issue/PR here.
