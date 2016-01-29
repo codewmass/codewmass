@@ -17,6 +17,7 @@ Initial planning meeting is **Friday 1/29, 3pm @ [Amherst Powerhouse](https://ww
   - [ ] Towns/departments who are interested in collobarion, who have problems that need to be solved
   - [ ] hack for western mass organizers
   - [ ] [UMass graduate data science](http://gridclub.io/)
+  - [ ] [UMass center for civic engagement](http://cesl.umass.edu/contactus)
 - [ ] Figure out where to meet
   - [ ] Local businesses who would sponsor
 - [ ] Try to figure out tips from others on how to do this
