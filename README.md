@@ -14,7 +14,7 @@ Initial planning meeting is **Friday 1/29, 3pm @ [Amherst Powerhouse](https://ww
   - [ ] Five College CS students
   - [ ] Five College community organizing students
   - [ ] Programmers outside of the colleges (look at local dev shops)
-  - [ ] Towns/departments who are interested in collobarion, who have problems that need to be solved
+  - [ ] Towns/departments who are interested in collaboration, who have problems that need to be solved
   - [ ] hack for western mass organizers
   - [ ] [UMass graduate data science](http://gridclub.io/)
   - [ ] [UMass center for civic engagement](http://cesl.umass.edu/contactus)
