@@ -4,8 +4,9 @@ A civic hack night in western mass for programmers (and other citizens)
 to work on developing solutions to problems in local communities.
 
 ## Getting Involved
+We haven't started yet, still in the planning phase.
 
-If you are interested, please reach out. Reach out to Saul Shanabrook at s.shanabrook@gmail.com to maybe meet up in person or leave an issue/PR here.
+If you are interested, please reach out in getting involved in organzing, then you can reach out to Saul Shanabrook at s.shanabrook@gmail.com or leave an issue/PR here.
 
 Initial planning meeting is **Friday 1/29, 3pm @ [Amherst Powerhouse](https://www.google.com/maps/place/Power+House,+East+Dr,+Amherst,+MA+01002/@42.372125,-72.5130709,19z/data=!4m2!3m1!1s0x89e6cdf0980c712b:0x5ba011f36a203c3d)**
 
