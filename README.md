@@ -31,4 +31,16 @@ Initial planning meeting is **Friday 1/29, 3pm @ [Amherst Powerhouse](https://ww
   - [ ] Data from local agencies
 - [ ] Add a code of conduct
 
+## Possible projects
+* analyzing bus routes
+  * who is served and who isnt
+  * hypothesis is that five colleges have concentration, working class communities dont
+* analyzing housing
+	* absentee landlords
+	* balancing increasing desnity for students with respecting families and town
+* affordable housing
+* Also look at crime data from UMPD and amherst to see how that aligns with off campus housing
+  * hypothesis: increased reporting of crimes for certain absentee landlords
+* ban the box -> criminal conviction
+
 
